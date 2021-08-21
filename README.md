@@ -1,4 +1,4 @@
-Hey @everyone and welcome to my présentation !
+Hey @everyone and welcome to my presentation !
 
 I’m @BaudeanKM and i'm interested in coding (of course), art, music and vidéo games.
 I’m currently learning python via VS Code and Jupyter and it's pretty cool, well it's hard but fun.
