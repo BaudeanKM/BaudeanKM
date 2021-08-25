@@ -7,7 +7,7 @@ I’m currently learning Python, Html and Jupyter ,it's pretty cool, well it's h
 ## What will you see in this Git ?
 1. Html Begginer code
 2. Python and jupyter code
-3. French descriptions who will obviously be changed (sry i forgot to write them in english)
+3. French descriptions who will obviously be changed (sry I forgot to write them in english)
 4. And random stuff I'll work on
 
 
